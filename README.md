@@ -1,5 +1,5 @@
 # Twitter Clone
-<br/>
+
 ### Tech Stack
 - React JS
 - Material UI
